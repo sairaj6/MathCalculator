@@ -3,7 +3,7 @@ public class MathCalculator {
 	public static void main(String[] args) {
 		
 		MathCalculator math = new MathCalculator();
-		
+		System.out.println("hello welcome to main");
 		math.Addition();
 		math.Sbutraction();
 		math.Mutiplication();
